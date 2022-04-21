@@ -1,2 +1,0 @@
-# PyTKinter
-Ultilização de Tkinter 
